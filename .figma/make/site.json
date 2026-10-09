@@ -1,0 +1,10 @@
+{
+  "description": "Upload a photo of a fish to receive an AI-powered freshness analysis, providing clear predictions and confidence scores for consumers and vendors.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
